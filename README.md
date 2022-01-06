@@ -1,6 +1,6 @@
 - 👋 Hello! I'm Luxshan Jeyaranjan
 - 🎓 Currently a Software Engineering Student at the University of Western Ontario, Class of 2023
-- 🙋 Currently looking for Co-ops and internships starting in Summer 2021!
+- 🙋 Currently looking for Co-ops and internships starting in Summer 2022!
 - 📫 https://www.linkedin.com/in/luxshan-jey-0316b1176/
 
 <!---
