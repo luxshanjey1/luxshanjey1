@@ -1,5 +1,5 @@
 - 👋 Hello! I'm Luxshan Jeyaranjan
-- 🎓 Currently a Software Engineering Student at the University of Western Ontario, Class of 2023
+- 🎓 Currently a Software Engineering Student at the University of Western Ontario, Class of 2024
 - 📫 https://www.linkedin.com/in/luxshan-jey-0316b1176/
 
 <!---
